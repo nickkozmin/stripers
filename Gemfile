@@ -11,6 +11,9 @@ gem 'pg', group: [:production]
 
 gem 'rails_12factor', group: [:production]
 
+#Use Bootstrap for improving look and feel
+gem 'bootstrap-sass'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
